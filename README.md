@@ -1,4 +1,8 @@
 # plinko
+
+LOS CODIGOS ESTAN EN LA CARPETA ASESST RandomSpawn y ZonaPuntos
+
+
 📌 Reglas del Juego
 1️⃣ Presiona ESPACIO para soltar la pelota desde la parte superior.
 2️⃣ La pelota rebotará en los tubos de la pirámide.
